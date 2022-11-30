@@ -1,6 +1,6 @@
-# Backrooms-found-footage-Data-Protection-Policy
+# Backrooms-abnormal-Data-Protection-Policy
 
-Welcome to the Backrooms found footage app for Android!
+Welcome to the Backrooms abnormal app for Android!
 
 This is an open source Android app developed by Yunus Özkul. The app is available on Google Play.
 
